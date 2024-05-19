@@ -1,7 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Hari Govind</h1>
-<h3 align="center">An Enthusiastic Full Stack Wizard"</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harigovind-m" alt="harigovind-m" /></a> </p>
+<h3 align="center">"An Enthusiastic Full Stack Wizard"</h3>
 
 - 🔭 I’m currently working on [TaskDazzle Todo App](https://github.com/harigovind-m/Todo-App)
 
@@ -10,6 +8,8 @@
 - 💬 Ask me about **Node.js, MongoDB, Javascript**
 
 - 📫 How to reach me **harigovind0221@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harigovind-m" alt="harigovind-m" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
