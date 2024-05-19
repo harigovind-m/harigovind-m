@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/_h4.ri_" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_h4.ri_" height="30" width="40" /></a>
 <a href="https://wa.me/916238550221" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Hari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hari-govind-263638302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-govind-263638302" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
